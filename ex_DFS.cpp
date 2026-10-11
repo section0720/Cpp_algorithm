@@ -1,4 +1,4 @@
-// 무방향 무가중치 그래프에 대한 DFS
+// 무방향 무가중치 그래프에 대한 DFS 예시코드 vertex의 순회 순서를 출력한다
 // 방향 그래프면 그래프에 저장할 때 G[s].push_back(e)만 실행시키고
 // 가중치가 있으면 그래프를 선언할때 vector<vector<pair<int, int>>> G; 이런식으로 G[i].first는 다음 vertex, second는 가중치로 저장하기
 #include <iostream>
